@@ -5,7 +5,7 @@
 whimzikol @ github
 -------------------------
 - 🎓 I am a core student at 42 Berlin
-- 🌱 I’m currently learning C
+- 🌱 Currently learning: C
 - 🕺 Fun fact: I dance
 
 ```
