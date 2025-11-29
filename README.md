@@ -1,5 +1,5 @@
 <p>
-<img align="left" src="images/profile_pic.png" alt="Profile Pic" width="320" /> 
+<img align="left" src="images/profile_pic_320.png" alt="Profile Pic" width="320" />
 
 ```shell
 whimzikol @ github
