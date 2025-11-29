@@ -6,7 +6,6 @@ whimzikol @ github
 -------------------------
 - 🎓 I am a core student at 42 Berlin
 - 🌱 I’m currently learning C
-- 😄 Pronouns: they/them/he/him
 - 🕺 Fun fact: I dance
 
 ```
