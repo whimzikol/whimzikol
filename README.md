@@ -2,7 +2,7 @@
   <img align="left" src="images/profile_pic_320.png" alt="Profile Pic" width="320" />
   <p>
 
-  👨‍🎓 Student at
+  👨‍🎓 Core student at:
   [![42 Berlin](https://img.shields.io/badge/42%20Berlin-ED3592?logo=42&logoColor=white)](#)
     <br>
   🧑‍💻 Coding languages:
