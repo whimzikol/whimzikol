@@ -66,7 +66,7 @@ whimzikol @ github
   [![GNOME Terminal](https://img.shields.io/badge/GNOME%20Terminal-241F31?logo=gnometerminal&logoColor=fff)](#)
   <br>
   📷
-  [![Capture One](https://img.shields.io/badge/Capture%20One-7D2C85)](#)
+  [![Capture One](https://img.shields.io/badge/Capture%20One-aa1059)](#)
   [![Photoshop](https://img.shields.io/badge/Photoshop-1c6798)](#)
   [![Lightroom](https://img.shields.io/badge/Lightroom-1c6798)](#)
   [![Affinity Studio](https://custom-icon-badges.demolab.com/badge/Affinity-A7F175?logo=affinitystudio&logoColor=black)](#)
