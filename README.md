@@ -27,6 +27,9 @@ whimzikol @ github
 </pre>
   <p>
 
+  👨‍🎓
+  [![42 Berlin](https://img.shields.io/badge/42%20Berlin-ED3592?logo=42&logoColor=white)](#)
+  <br>
   🧑‍💻 
   [![C](https://img.shields.io/badge/C-00599C?logo=c&logoColor=white)](#)
   [![C++](https://img.shields.io/badge/C++-%2300599C.svg?logo=c%2B%2B&logoColor=white)](#)
@@ -70,12 +73,6 @@ whimzikol @ github
   [![Affinity Studio](https://custom-icon-badges.demolab.com/badge/Affinity-A7F175?logo=affinitystudio&logoColor=black)](#)
   [![Gimp](https://img.shields.io/badge/Gimp-5C5543?logo=gimp&logoColor=white)](#)
   [![Blender](https://img.shields.io/badge/Blender-%23F5792A.svg?logo=blender&logoColor=white)](#)
-  </p>
-  <p>
-  
-  👨‍🎓
-  [![42 Berlin](https://img.shields.io/badge/42%20Berlin-ED3592?logo=42&logoColor=white)](#)
-  <br>
   </p>
 </p>
 <br>
