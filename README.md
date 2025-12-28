@@ -20,12 +20,13 @@ __   ___________________________________________________________________________
 
 <pre>
 whimzikol @ github
--------------------------
 - 🎓 I am a core student at 42 Berlin
 - 🌱 Currently learning: C
 - 🕺 Fun fact: I dance
 </pre>
   <p>
+
+![Stats](./profile/stats.svg)
 
   👨‍🎓
   [![42 Berlin](https://img.shields.io/badge/42%20Berlin-ED3592?logo=42&logoColor=white)](#)
@@ -87,4 +88,3 @@ whimzikol @ github
 </p>
 <br>
 
-![Stats](./profile/stats.svg)
