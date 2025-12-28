@@ -76,6 +76,8 @@ __   ___________________________________________________________________________
   🎨 3D software:
   [![Blender](https://img.shields.io/badge/Blender-%23F5792A.svg?logo=blender&logoColor=white)](#)
   </p>
+  <br>
+  <p>
   <pre>
 whimzikol @ github
 --------------------------
@@ -83,6 +85,7 @@ whimzikol @ github
 - 🌱 Currently learning: C
 - 🕺 Fun fact: I dance salsa
   </pre>
+  </p>
 </p>
 <p align="center">
   <table style="border-collapse: collapse; border=none;">
