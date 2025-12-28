@@ -59,7 +59,7 @@
   [![Akai MPC](https://img.shields.io/badge/Akai%20MPC-dc3545)](#)
   [![Ableton Live](https://img.shields.io/badge/Ableton%20Live-ffffff)](#)
     <br>
-  🎨 3D:
+  🧊 3D:
   [![Blender](https://img.shields.io/badge/Blender-%23F5792A.svg?logo=blender&logoColor=white)](#)
   </p>
   <br>
