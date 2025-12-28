@@ -102,3 +102,7 @@ whimzikol @ github
     </tr>
   </table>
 </p>
+<div align="center">
+
+  ![](https://komarev.com/ghpvc/?username=whimzikol&color=blueviolet)
+</div>
