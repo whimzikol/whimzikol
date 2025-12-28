@@ -86,3 +86,5 @@ whimzikol @ github
   </p>
 </p>
 <br>
+
+![Stats](./profile/stats.svg)
