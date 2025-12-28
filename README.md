@@ -65,13 +65,22 @@ whimzikol @ github
   [![Zsh](https://img.shields.io/badge/Zsh-F15A24?logo=zsh&logoColor=fff)](#)
   [![GNOME Terminal](https://img.shields.io/badge/GNOME%20Terminal-241F31?logo=gnometerminal&logoColor=fff)](#)
   <br>
-  🎨
+  📷
   [![Capture One](https://img.shields.io/badge/Capture%20One-7D2C85)](#)
-  [![Photoshop](https://img.shields.io/badge/Photoshop-0067A7)](#)
-  [![Lightroom](https://img.shields.io/badge/Lightroom-0067A7)](#)
-  [![Premiere Pro](https://img.shields.io/badge/Premiere%20Pro-330D3E)](#)
+  [![Photoshop](https://img.shields.io/badge/Photoshop-1c6798)](#)
+  [![Lightroom](https://img.shields.io/badge/Lightroom-1c6798)](#)
   [![Affinity Studio](https://custom-icon-badges.demolab.com/badge/Affinity-A7F175?logo=affinitystudio&logoColor=black)](#)
   [![Gimp](https://img.shields.io/badge/Gimp-5C5543?logo=gimp&logoColor=white)](#)
+  <br>
+  🎥
+  [![DaVinci Resolve](https://img.shields.io/badge/Davinci%20Resolve-F1651F?logo=davinciresolve&logoColor=white)](#)
+  [![Premiere Pro](https://img.shields.io/badge/Premiere%20Pro-6A0FF9)](#)
+  [![After Effects](https://img.shields.io/badge/After%20Effects-7D01B3)](#)
+  <br>
+  🎤
+  [![Ableton](https://img.shields.io/badge/Ableton-white)](#)
+  <br>
+  🎨
   [![Blender](https://img.shields.io/badge/Blender-%23F5792A.svg?logo=blender&logoColor=white)](#)
   </p>
 </p>
