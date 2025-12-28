@@ -48,8 +48,11 @@ whimzikol @ github
 [![Zsh](https://img.shields.io/badge/Zsh-F15A24?logo=zsh&logoColor=fff)](#)
 [![GNOME Terminal](https://img.shields.io/badge/GNOME%20Terminal-241F31?logo=gnometerminal&logoColor=fff)](#)
 <br>
-🖱️ 
-[![Slack](https://img.shields.io/badge/Slack-4A154B?logo=slack&logoColor=fff)](#)
+🎨
+[![Capture One](https://img.shields.io/badge/Capture%20One-7D2C85)](#)
+[![Photoshop](https://img.shields.io/badge/Photoshop-0067A7)](#)
+[![Lightroom](https://img.shields.io/badge/Lightroom-0067A7)](#)
+[![Premiere Pro](https://img.shields.io/badge/Premiere%20Pro-330D3E)](#)
 [![Affinity Studio](https://custom-icon-badges.demolab.com/badge/Affinity-A7F175?logo=affinitystudio&logoColor=black)](#)
 [![Gimp](https://img.shields.io/badge/Gimp-5C5543?logo=gimp&logoColor=white)](#)
 [![Blender](https://img.shields.io/badge/Blender-%23F5792A.svg?logo=blender&logoColor=white)](#)
