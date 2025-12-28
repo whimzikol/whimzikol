@@ -26,8 +26,6 @@ whimzikol @ github
 </pre>
   <p>
 
-![Stats](./profile/stats.svg)
-
   👨‍🎓
   [![42 Berlin](https://img.shields.io/badge/42%20Berlin-ED3592?logo=42&logoColor=white)](#)
   <br>
@@ -86,5 +84,15 @@ whimzikol @ github
   [![Blender](https://img.shields.io/badge/Blender-%23F5792A.svg?logo=blender&logoColor=white)](#)
   </p>
 </p>
-<br>
-
+<p align="center">
+  <table style="border-collapse: collapse; border=none;">
+    <tr>
+      <td style="border: none; padding: 0;">
+          <img src="profile/stats.svg" />
+      </td>
+      <td style="border: none; padding: 0;">
+          <img src="https://github-readme-streak-stats.herokuapp.com/?user=whimzikol&theme=tokyonight&hide_border=true" />
+      </td>
+    </tr>
+  </table>
+</p>
