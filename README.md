@@ -76,6 +76,7 @@ whimzikol @ github
   [![DaVinci Resolve](https://img.shields.io/badge/Davinci%20Resolve-F1651F?logo=davinciresolve&logoColor=white)](#)
   [![Premiere Pro](https://img.shields.io/badge/Premiere%20Pro-6A0FF9)](#)
   [![After Effects](https://img.shields.io/badge/After%20Effects-7D01B3)](#)
+  [![OBS Studio](https://img.shields.io/badge/OBS%20Studio-302E31?logo=obsstudio&logoColor=white)](#)
   <br>
   🎤
   [![Ableton](https://img.shields.io/badge/Ableton-white)](#)
