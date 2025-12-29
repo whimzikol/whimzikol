@@ -96,11 +96,9 @@ whimzikol @ github
       <td style="border: none; padding: 0;">
           <img src="profile/stats.svg" />
       </td>
-<!--
       <td style="border: none; padding: 0;">
           <img src="https://github-readme-streak-stats.herokuapp.com/?user=whimzikol&theme=tokyonight&hide_border=true" />
       </td>
--->
     </tr>
   </table>
 </p>
