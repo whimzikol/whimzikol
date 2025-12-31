@@ -49,7 +49,7 @@ jobs:
           cd tools/github-readme-streak-stats
           TOKEN=${{ secrets.GITHUB_TOKEN }} \
           GITHUB_USER=${{ github.repository_owner }} \
-          php -r '$_GET = ["user" => getenv("GITHUB_USER"), "theme" => "tokyonight", "hide_border" => "true"]; $_REQUEST = $_GET; $_SERVER["TOKEN"] = getenv("TOKEN"); require "src/index.php";' \
+          php -r 'chdir("src"); $_GET = ["user" => getenv("GITHUB_USER"), "theme" => "tokyonight", "hide_border" => "true"]; $_REQUEST = $_GET; $_SERVER["TOKEN"] = getenv("TOKEN"); require "index.php";' \
             > ../../profile/streak.svg
 
       # -------------------------------
