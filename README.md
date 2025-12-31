@@ -50,11 +50,9 @@ Hello! Welcome to my github profile.
       <td style="border:none; padding:0;"">
           <img src="profile/stats.svg" />
       </td>
-      <!--
       <td>
-          <img alt="Stats" src="https://github-readme-streak-stats.herokuapp.com/?user=whimzikol&theme=tokyonight&hide_border=true" />
+          <img alt="Streak Stats" src="profile/streak.svg" />
       </td>
-      -->
     </tr>
   </table>
   <div align="center">
