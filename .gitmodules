@@ -1,0 +1,3 @@
+[submodule "tools/github-readme-streak-stats"]
+	path = tools/github-readme-streak-stats
+	url = https://github.com/whimzikol/github-readme-streak-stats.git
