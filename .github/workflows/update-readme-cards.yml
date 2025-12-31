@@ -24,20 +24,22 @@ jobs:
           token: ${{ secrets.GITHUB_TOKEN }}
 
       # -------------------------------
-      # Setup Node for streak rendering
+      # Setup PHP for streak rendering
       # -------------------------------
-      - name: Setup Node.js
-        uses: actions/setup-node@v4
+      - name: Setup PHP
+        uses: shivammathur/setup-php@v2
         with:
-          node-version: 20
+          php-version: "8.2"
+          extensions: intl
+          tools: composer:v2
 
       # -------------------------------
-      # Install streak dependencies
+      # Install streak dependencies (PHP)
       # -------------------------------
       - name: Install streak dependencies
         run: |
           cd tools/github-readme-streak-stats
-          npm install
+          composer install --no-interaction --no-ansi --no-progress --no-dev
 
       # -------------------------------
       # Render streak SVG locally
@@ -45,11 +47,10 @@ jobs:
       - name: Generate streak card
         run: |
           cd tools/github-readme-streak-stats
-          node index.js \
-            --user ${{ github.repository_owner }} \
-            --theme tokyonight \
-            --hide_border true \
-            --output ../../profile/streak.svg
+          TOKEN=${{ secrets.GITHUB_TOKEN }} \
+          GITHUB_USER=${{ github.repository_owner }} \
+          php -r '$_GET = ["user" => getenv("GITHUB_USER"), "theme" => "tokyonight", "hide_border" => "true"]; $_REQUEST = $_GET; $_SERVER["TOKEN"] = getenv("TOKEN"); require "src/index.php";' \
+            > ../../profile/streak.svg
 
       # -------------------------------
       # Commit both cards
