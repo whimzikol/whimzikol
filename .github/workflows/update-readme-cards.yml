@@ -37,7 +37,7 @@ jobs:
       - name: Install streak dependencies
         run: |
           cd tools/github-readme-streak-stats
-          npm ci
+          npm install
 
       # -------------------------------
       # Render streak SVG locally
