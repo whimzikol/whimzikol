@@ -16,10 +16,8 @@ __   ___________________________________________________________________________
   | |                                                                                                        | |  
 </pre>
 <p>
-  <div>
   <img align="left" src="images/profile_pic_320.png" alt="Profile Pic" width="320" />
-</div>
-<pre>
+  <pre>
 
   🧑‍💻 Languages: [![C](https://img.shields.io/badge/C-00599C?logo=c&logoColor=white)](#) [![C++](https://img.shields.io/badge/C++-%2300599C.svg?logo=c%2B%2B&logoColor=white)](#) [![HTML](https://img.shields.io/badge/HTML-%23E34F26.svg?logo=html5&logoColor=white)](#) [![CSS](https://img.shields.io/badge/CSS-639?logo=css&logoColor=fff)](#) [![Bash](https://img.shields.io/badge/Bash-4EAA25?logo=gnubash&logoColor=fff)](#) [![Markdown](https://img.shields.io/badge/Markdown-%23000000.svg?logo=markdown&logoColor=white)](#)
   💻 Editors: [![Neovim](https://img.shields.io/badge/Neovim-57A143?logo=neovim&logoColor=fff)](#) [![Vim](https://img.shields.io/badge/Vim-%2311AB00.svg?logo=vim&logoColor=white)](#) [![Visual Studio Code](https://custom-icon-badges.demolab.com/badge/Visual%20Studio%20Code-0078d7.svg?logo=vsc&logoColor=white)](#) [![Zed](https://img.shields.io/badge/Zed-white?logo=zedindustries&logoColor=084CCF)](#)
@@ -31,13 +29,19 @@ __   ___________________________________________________________________________
   🎥 Video: [![DaVinci Resolve](https://img.shields.io/badge/Davinci%20Resolve-F1651F?logo=davinciresolve&logoColor=white)](#) [![Premiere Pro](https://img.shields.io/badge/Premiere%20Pro-6A0FF9)](#) [![After Effects](https://img.shields.io/badge/After%20Effects-7D01B3)](#) [![OBS Studio](https://img.shields.io/badge/OBS%20Studio-302E31?logo=obsstudio&logoColor=white)](#)
   🎤 Audio: [![Elektron Digitone](https://img.shields.io/badge/Elektron%20Digitone-151515)](#) [![Elektron Digitakt](https://img.shields.io/badge/Elektron%20Digitakt-151515)](#) [![Akai MPC](https://img.shields.io/badge/Akai%20MPC-dc3545)](#) [![Ableton Live](https://img.shields.io/badge/Ableton%20Live-ffffff)](#)
   🧊 3D: [![Blender](https://img.shields.io/badge/Blender-%23F5792A.svg?logo=blender&logoColor=white)](#)
-  </pre>
+<!--
+  🧊 CMS: [![Blender](https://img.shields.io/badge/Blender-%23F5792A.svg?logo=blender&logoColor=white)](#)
+  🧊 Registrar: [![Blender](https://img.shields.io/badge/Blender-%23F5792A.svg?logo=blender&logoColor=white)](#)
+  🧊 Webspace: [![Blender](https://img.shields.io/badge/Blender-%23F5792A.svg?logo=blender&logoColor=white)](#)
+-->
+    </pre>
 </p>
 <p>
   <pre>
 
 whimzikol @ github
 -----
+
 [![42 Berlin](https://img.shields.io/badge/42%20Berlin-ED3592?logo=42&logoColor=white)](#)
 Hello! Welcome to my github profile.
 -🎓 I am a core student at 42 Berlin
@@ -45,7 +49,6 @@ Hello! Welcome to my github profile.
 -🕺 Fun fact: I dance salsa
   </pre>
 </p>
-<p>
   <table align="center">
     <tr>
       <td style="border:none; padding:0;"">
@@ -62,5 +65,3 @@ Hello! Welcome to my github profile.
 
   ![](https://komarev.com/ghpvc/?username=whimzikol&color=blueviolet)
   </div>
-</p>
-
