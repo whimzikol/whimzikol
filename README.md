@@ -23,19 +23,13 @@ __   ___________________________________________________________________________
   💻 Editors: [![Neovim](https://img.shields.io/badge/Neovim-57A143?logo=neovim&logoColor=fff)](#) [![Vim](https://img.shields.io/badge/Vim-%2311AB00.svg?logo=vim&logoColor=white)](#) [![Visual Studio Code](https://custom-icon-badges.demolab.com/badge/Visual%20Studio%20Code-0078d7.svg?logo=vsc&logoColor=white)](#) [![Zed](https://img.shields.io/badge/Zed-white?logo=zedindustries&logoColor=084CCF)](#)
   🤖 AI tools: [![ChatGPT](https://img.shields.io/badge/ChatGPT-74aa9c?logo=openai&logoColor=white)](#) [![Claude](https://img.shields.io/badge/Claude-D97757?logo=claude&logoColor=fff)](#) [![GitHub Copilot](https://img.shields.io/badge/GitHub%20Copilot-000?logo=githubcopilot&logoColor=fff)](#)
   🕹️ Game dev: [![Unity](https://img.shields.io/badge/Unity-%23000000.svg?logo=unity&logoColor=white)](#) [![Godot Engine](https://img.shields.io/badge/Godot-%23FFFFFF.svg?logo=godot-engine)](#)
-  🖥️ OS: [![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)](#) [![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?logo=ubuntu&logoColor=white)](#) [![Windows](https://custom-icon-badges.demolab.com/badge/Windows-0078D6?logo=windows11&logoColor=white)](#) [![Android](https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=white)](#) [![macOS](https://img.shields.io/badge/macOS-000000?logo=apple&logoColor=F0F0F0)](#) [![iOS](https://img.shields.io/badge/iOS-000000?&logo=apple&logoColor=white)](#)
+  🖥️ OS: [![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)](#) [![i3](https://img.shields.io/badge/i3-52c0ff?logo=i3&logoColor=white)](#) [![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?logo=ubuntu&logoColor=white)](#) [![Windows](https://custom-icon-badges.demolab.com/badge/Windows-0078D6?logo=windows11&logoColor=white)](#) [![Android](https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=white)](#) [![macOS](https://img.shields.io/badge/macOS-000000?logo=apple&logoColor=F0F0F0)](#) [![iOS](https://img.shields.io/badge/iOS-000000?&logo=apple&logoColor=white)](#)
   ⌨️ Shells: [![Zsh](https://img.shields.io/badge/Zsh-F15A24?logo=zsh&logoColor=fff)](#) [![Bash](https://img.shields.io/badge/Bash-241F31?logo=gnometerminal&logoColor=fff)](#)
+  🧩 CMS: [![Joomla](https://img.shields.io/badge/Joomla-5091cd?logo=joomla&logoColor=white)](#) [![WordPress](https://img.shields.io/badge/WordPress-21759b?logo=wordpress&logoColor=white)](#) [![Squarespace](https://img.shields.io/badge/Squarespace-000000?logo=squarespace&logoColor=white)](#) [![Drupal](https://img.shields.io/badge/Drupal-0678be?logo=drupal&logoColor=white)](#)
   📷 Photo: [![Capture One](https://img.shields.io/badge/Capture%20One-aa1059)](#) [![Photoshop](https://img.shields.io/badge/Photoshop-1c6798)](#) [![Lightroom](https://img.shields.io/badge/Lightroom-1c6798)](#) [![Affinity Studio](https://custom-icon-badges.demolab.com/badge/Affinity-A7F175?logo=affinitystudio&logoColor=black)](#) [![Gimp](https://img.shields.io/badge/Gimp-5C5543?logo=gimp&logoColor=white)](#)
   🎥 Video: [![DaVinci Resolve](https://img.shields.io/badge/Davinci%20Resolve-F1651F?logo=davinciresolve&logoColor=white)](#) [![Premiere Pro](https://img.shields.io/badge/Premiere%20Pro-6A0FF9)](#) [![After Effects](https://img.shields.io/badge/After%20Effects-7D01B3)](#) [![OBS Studio](https://img.shields.io/badge/OBS%20Studio-302E31?logo=obsstudio&logoColor=white)](#)
   🎤 Audio: [![Elektron Digitone](https://img.shields.io/badge/Elektron%20Digitone-151515)](#) [![Elektron Digitakt](https://img.shields.io/badge/Elektron%20Digitakt-151515)](#) [![Akai MPC](https://img.shields.io/badge/Akai%20MPC-dc3545)](#) [![Ableton Live](https://img.shields.io/badge/Ableton%20Live-ffffff)](#)
   🧊 3D: [![Blender](https://img.shields.io/badge/Blender-%23F5792A.svg?logo=blender&logoColor=white)](#)
-  
-<!--
-  🧊 CMS: [![Blender](https://img.shields.io/badge/Blender-%23F5792A.svg?logo=blender&logoColor=white)](#)
-  🧊 Registrar: [![Blender](https://img.shields.io/badge/Blender-%23F5792A.svg?logo=blender&logoColor=white)](#)
-  🧊 Webspace: [![Blender](https://img.shields.io/badge/Blender-%23F5792A.svg?logo=blender&logoColor=white)](#)
--->
-
   </pre>
 </p>
 <p>
