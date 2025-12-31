@@ -29,12 +29,14 @@ __   ___________________________________________________________________________
   🎥 Video: [![DaVinci Resolve](https://img.shields.io/badge/Davinci%20Resolve-F1651F?logo=davinciresolve&logoColor=white)](#) [![Premiere Pro](https://img.shields.io/badge/Premiere%20Pro-6A0FF9)](#) [![After Effects](https://img.shields.io/badge/After%20Effects-7D01B3)](#) [![OBS Studio](https://img.shields.io/badge/OBS%20Studio-302E31?logo=obsstudio&logoColor=white)](#)
   🎤 Audio: [![Elektron Digitone](https://img.shields.io/badge/Elektron%20Digitone-151515)](#) [![Elektron Digitakt](https://img.shields.io/badge/Elektron%20Digitakt-151515)](#) [![Akai MPC](https://img.shields.io/badge/Akai%20MPC-dc3545)](#) [![Ableton Live](https://img.shields.io/badge/Ableton%20Live-ffffff)](#)
   🧊 3D: [![Blender](https://img.shields.io/badge/Blender-%23F5792A.svg?logo=blender&logoColor=white)](#)
+  
 <!--
   🧊 CMS: [![Blender](https://img.shields.io/badge/Blender-%23F5792A.svg?logo=blender&logoColor=white)](#)
   🧊 Registrar: [![Blender](https://img.shields.io/badge/Blender-%23F5792A.svg?logo=blender&logoColor=white)](#)
   🧊 Webspace: [![Blender](https://img.shields.io/badge/Blender-%23F5792A.svg?logo=blender&logoColor=white)](#)
 -->
-    </pre>
+
+  </pre>
 </p>
 <p>
   <pre>
