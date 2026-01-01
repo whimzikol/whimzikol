@@ -48,10 +48,10 @@ Hello! Welcome to my github profile.
   <table align="center">
     <tr>
       <td style="border:none; padding:0;"">
-          <img src="profile/stats.svg" />
+          <img alt="Github Stats" src="profile/stats.svg" />
       </td>
       <td>
-          <img alt="Streak Stats" src="profile/streak.svg" />
+          <img alt="Github Streak" src="profile/streak.svg" />
       </td>
     </tr>
   </table>
