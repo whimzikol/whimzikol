@@ -39,10 +39,19 @@ whimzikol @ github
 -----
 
 [![42 Berlin](https://img.shields.io/badge/42%20Berlin-ED3592?logo=42&logoColor=white)](#)
-Hello! Welcome to my github profile.
--🎓 I am a core student at 42 Berlin
--🌱 Currently learning C
--🕺 Fun fact: I dance salsa
+Hello! Welcome to my github profile. 👋
+-🎓 Core student at 42 Berlin, expected to finish in late 2026.
+-🌱 Currently learning C and system-level programming.
+-🛠️ I enjoy building low-level systems and tools that run close to the OS.
+-🧠 I care about clean, readable code that is easy to understand and maintain.
+-🕺 Fun fact: I dance and teach salsa.
+
+Long-term
+-----
+-🎮 Founding a game development studio focused on story driven games
+that explore mental health with care and intention. 
+🤝 Open to connecting with developers, writers, artists, and designers
+interested in narrative and mental health–focused games.
   </pre>
 </p>
   <table align="center">
