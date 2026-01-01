@@ -46,7 +46,7 @@ Hello! Welcome to my github profile. 👋
 -🧠 I care about clean, readable code that is easy to understand and maintain.
 -🕺 Fun fact: I dance and teach salsa.
 
-Long-term
+Long-term Goals
 -----
 -🎮 Founding a game development studio focused on story driven games
 that explore mental health with care and intention. 
