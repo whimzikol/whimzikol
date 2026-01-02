@@ -2,7 +2,7 @@ name: Update README cards
 
 on:
   schedule:
-    - cron: "0 3 * * *"
+    - cron: "0 */3 * * *"
   workflow_dispatch:
 
 jobs:
@@ -24,25 +24,14 @@ jobs:
           token: ${{ secrets.GH_README_STREAK_TOKEN || secrets.GITHUB_TOKEN }}
 
       # -------------------------------
-      # Generate GitHub stats card (dark mode)
+      # GitHub stats card (unchanged)
       # -------------------------------
-      - name: Generate stats card dark mode
+      - name: Generate stats card
         uses: readme-tools/github-readme-stats-action@v1
         with:
           card: stats
           options: username=${{ github.repository_owner }}&show_icons=true&theme=tokyonight&hide_border=true
-          path: profile/stats_dark.svg
-          token: ${{ secrets.GITHUB_TOKEN }}
-
-      # -------------------------------
-      # Generate GitHub stats card (light mode)
-      # -------------------------------
-      - name: Generate stats card light mode
-        uses: readme-tools/github-readme-stats-action@v1
-        with:
-          card: stats
-          options: username=${{ github.repository_owner }}&show_icons=true&theme=defaultt&hide_border=true
-          path: profile/stats_light.svg
+          path: profile/stats.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
       # -------------------------------
@@ -64,26 +53,15 @@ jobs:
           composer install --no-interaction --no-ansi --no-progress --no-dev
 
       # -------------------------------
-      # Generate GitHub streak card (dark mode)
+      # Render streak SVG locally
       # -------------------------------
-      - name: Generate streak card dark mode
+      - name: Generate streak card
         run: |
           cd tools/github-readme-streak-stats
           TOKEN=${{ secrets.GITHUB_TOKEN }} \
           GITHUB_USER=${{ github.repository_owner }} \
           php -r 'chdir("src"); $_GET = ["user" => getenv("GITHUB_USER"), "theme" => "tokyonight", "hide_border" => "true"]; $_REQUEST = $_GET; $_SERVER["TOKEN"] = getenv("TOKEN"); require "index.php";' \
-            > ../../profile/streak_dark.svg
-
-      # -------------------------------
-      # Generate Github streak card (light mode)
-      # -------------------------------
-      - name: Generate streak card light mode
-        run: |
-          cd tools/github-readme-streak-stats
-          TOKEN=${{ secrets.GITHUB_TOKEN }} \
-          GITHUB_USER=${{ github.repository_owner }} \
-          php -r 'chdir("src"); $_GET = ["user" => getenv("GITHUB_USER"), "theme" => "default", "hide_border" => "true"]; $_REQUEST = $_GET; $_SERVER["TOKEN"] = getenv("TOKEN"); require "index.php";' \
-            > ../../profile/streak_light.svg
+            > ../../profile/streak.svg
 
       # -------------------------------
       # Commit both cards
