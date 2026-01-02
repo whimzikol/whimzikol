@@ -57,10 +57,12 @@ interested in narrative and mental health–focused games.
   <table align="center">
     <tr>
       <td style="border:none; padding:0;"">
-          <img alt="Github Stats" src="profile/stats.svg" />
+        <img src="profile/stats_dark.svg#gh-dark-mode-only" alt="Stats (Dark)" />
+        <img src="profile/stats_light.svg#gh-light-mode-only" alt="Stats (Light)" />
       </td>
       <td>
-          <img alt="Github Streak" src="profile/streak.svg" />
+        <img src="profile/streak_dark.svg#gh-dark-mode-only" alt="Streak (Dark)" />
+        <img src="profile/streak_light.svg#gh-light-mode-only" alt="Streak (Light)" />
       </td>
     </tr>
   </table>
