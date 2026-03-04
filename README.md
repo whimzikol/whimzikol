@@ -40,7 +40,7 @@ whimzikol @ github
 
 [![42 Berlin](https://img.shields.io/badge/42%20Berlin-ED3592?logo=42&logoColor=white)](#)
 Hello! Welcome to my github profile. 👋
--🎓 Core student at 42 Berlin, expected to finish in late 2026.
+-🎓 Core student at 42 Berlin, expected to finish in 2027.
 -🌱 Currently learning C, C++, and system-level programming.
 -🛠️ I enjoy building low-level systems and tools that run close to the OS.
 -🧠 I care about clean, readable code that is easy to understand and maintain.
