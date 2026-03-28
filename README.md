@@ -46,6 +46,10 @@ Hello! Welcome to my github profile. 👋
 -🧠 I care about clean, readable code that is easy to understand and maintain.
 -🕺 Fun fact: I dance and teach salsa.
 
+Featured Project
+-----
+🐚 [minishell](https://github.com/whimzikol/minishell) | A minimal Unix shell built from scratch in C, inspired by bash.
+
 Long-term Goals
 -----
 -🎮 Founding a game development studio focused on story driven games
